@@ -3,11 +3,11 @@ This project is a demo of an integration between Jitsi Meet and Rocket.Chat, aim
 
 The goal of this project is to extend the <JitsiMeeting/> tag with a useRCForChat attribute in the Jitsi Meet React SDK. The integration will maintain prosody as the single source of truth for channel membership and cater to a variety of server authentication scenarios, including SSO and OAuth.
 
----
+
 [Screencast from 2023-02-25 10-29-54.webm](https://user-images.githubusercontent.com/99081689/221339708-3983213b-4d90-457a-93ec-21dbc54d28bb.webm)
 
 
----
+
 ## Prerequisites
 - Node.js
 - Material UI
@@ -15,7 +15,7 @@ The goal of this project is to extend the <JitsiMeeting/> tag with a useRCForCha
 - Libraries Used
 - Material UI (version 4)
 - react-router-dom
----
+
 
 ## Installation
  `git clone <repository-url>`
