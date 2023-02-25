@@ -87,7 +87,7 @@ const StartupPage = () => {
     <React.Fragment>
       <div className={classes.background}>
         <Paper className={classes.card} elevation={4}>
-          <h4>Jitsi Medium Demo</h4>
+          <h4>Jitsi Demo</h4>
           <ThemeProvider theme={theme}>
             <div style={{ marginBottom: '1.5rem' }}>
               <TextField
