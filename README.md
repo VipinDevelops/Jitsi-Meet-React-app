@@ -19,18 +19,18 @@ The goal of this project is to extend the <JitsiMeeting/> tag with a useRCForCha
 
 ## Installation
  `git clone <repository-url>`
----
+
 
 ## Install dependencies:
  `npm install`
----
+
 
 ## Start the project:
 
  `npm start`
  Open your browser and go to http://localhost:3000.
 
----
+
 
 ## Pages 
 
